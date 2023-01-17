@@ -1,7 +1,7 @@
 # Hack-Gmail
 #!/usr/bin/python 
 
- '''create by Ha3MrX''' 
+ '''create by Dark''' 
 
   
 
